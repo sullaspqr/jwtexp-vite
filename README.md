@@ -1,3 +1,8 @@
+# JWT token - kezelése - a token kikódolásával együtt:
+kell hozzá - a repó már tartalmazza:
+"jwt-decode": "^4.0.0"
+(telepítése bun add jwt-decode -al)
+
 # React + Vite + Kandó
 
 Update: Kandós favicon és specifikus ikonok, BrowserRouter-re és bootstrap-icons-ra felkészítve a main.jsx és a package.json-ben is!
